@@ -8,12 +8,22 @@ Have the function LongestWord(sen) take the sen parameter being passed and retur
 
 function longestWord(sen) {
   // YOUR CODE HERE
+  let words = sen.split(" ");
+  console.log(words)
+  let longestWord = words[0]
+  for (i=1;  i < words.length; i++) {
+    if (words[i].length > longestWord.length) {
+      longestWord = words[i]
+    }
+    
+  }
+  return longestWord
 }
 
-/* 
-Examples:
+
+// Examples:
 longestWord('lol time'); // => 'time'
 longestWord('I love cats'); // => 'love'
 longestWord('coding is awesome'); // => 'awesome'
 longestWord('hello world'); // => 'hello'
-*/
+
