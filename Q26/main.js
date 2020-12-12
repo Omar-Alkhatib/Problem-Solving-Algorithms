@@ -7,7 +7,8 @@ Write a JavaScript function to clone an array.
 */
 
 function array_Clone() {
-  // YOUR CODE HERE
+	// YOUR CODE HERE
+	// through loop, slice and push into a new array.
 }
 
 /* 

@@ -7,7 +7,9 @@ Find the first item that occurs an even number of times in an array.
 */
 
 function evenOccurrence() {
-  // YOUR CODE HERE
+	// YOUR CODE HERE
+	// get the number of times a number occurs in the array.
+	// check if the number is even and return it if it is.
 }
 
 /* 

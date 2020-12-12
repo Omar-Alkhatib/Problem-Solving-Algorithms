@@ -9,7 +9,9 @@ Do not return duplicate characters and ignore whitespace in your returned string
 */
 
 function commonCharacters() {
-  // YOUR CODE HERE
+	// YOUR CODE HERE
+	// loop one of the strings over the other. then push the character that finds a duplicate into a new string.
+	// return the new string.
 }
 
 /* 

@@ -7,7 +7,9 @@ Write a function that returns the length of the longest sequence of 1s in an arr
 */
 
 function longestSequence() {
-  // YOUR CODE HERE
+	// YOUR CODE HERE
+	//  Declare a variable for the sum of 1s and then sum of 0s and then loop around the array adding one each tmere is a repetition and setting
+	// corresponding variable to 0 everytime there is a change.
 }
 
 /* 

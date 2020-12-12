@@ -8,8 +8,9 @@ To simplify the problem, you can assume that both arrays will contain only strin
 */
 
 Array.prototype.isSubsetOf = function (array) {
-  // YOUR CODE HERE
-}
+	// YOUR CODE HERE
+	// loop one array over the other and check if all elemets are included in the second array one by one
+};
 
 /* 
 Examples:

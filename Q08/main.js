@@ -12,6 +12,7 @@ function uniqueItems(arr) {
   for (i=0; i < arr.length; i++) {
     for (e=1; e < arr.length; e ++) {
       if (arr[i] === arr)
+      // the idea is to take each item and loop around the array with the condition if keeping the unique items in one array then getting its length.
     }
 
   }

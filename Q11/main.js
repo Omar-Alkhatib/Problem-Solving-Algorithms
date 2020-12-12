@@ -7,7 +7,8 @@ Write a function that returns YES if a number is a power of 2, and NO otherwise.
 */
 
 function isPowerOfTwo() {
-  // YOUR CODE HERE
+	// YOUR CODE HERE
+	// take the square root and check is the answer is an integer.
 }
 
 /* 

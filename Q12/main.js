@@ -7,7 +7,8 @@ Write a function that reverses the characters of every word of a sentence. Input
 */
 
 function reverseEachWord() {
-  // YOUR CODE HERE
+	// YOUR CODE HERE
+	// through pop and push
 }
 
 /* 

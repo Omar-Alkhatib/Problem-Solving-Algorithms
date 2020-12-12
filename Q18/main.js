@@ -7,8 +7,12 @@ Given an integer, n, return n! (n factorial)
 5! = 5 * 4 * 3 * 2 * 1
 */
 
-function factorial() {
-  // YOUR CODE HERE
+function factorial(n) {
+	// YOUR CODE HERE
+	let factioral = 1;
+	for (i = 0; i < n; i++) {
+		factioral = factorial * (n - i);
+	}
 }
 
 /* 

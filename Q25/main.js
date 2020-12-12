@@ -7,7 +7,8 @@ Write a JavaScript function to check whether an `input` is an array or not.
 */
 
 function is_array() {
-  // YOUR CODE HERE
+	// YOUR CODE HERE
+	// use type of and check is the result is Array.
 }
 
 /* 

@@ -7,7 +7,12 @@ Write a function that accepts an array of integers and returns the largest produ
 */
 
 function largestProductOfThree() {
-  // YOUR CODE HERE
+	// YOUR CODE HERE
+	// find the largest 3 numbers in the array because the largest three numbers will give the largest product.
+	// find the largest number then remove it.
+	// in the new array find the largets number and remove it.
+	// in the new array find the largest number and remove it.
+	// after saving all three numbers multiply them and return the result.
 }
 
 /* 

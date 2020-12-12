@@ -8,7 +8,9 @@ If the array has an even number of elements, return the average of the two middl
 */
 
 function ArrayMiddle() {
-  // YOUR CODE HERE
+	// YOUR CODE HERE
+	// check if the array length is even or odd
+	// call the element in the center if odd and caculate the average if even.
 }
 
 /* 
